@@ -1,4 +1,4 @@
-# NYC_City_Bike
+# NYC_Citi_Bike
 [link to dashboard]https://public.tableau.com/app/profile/rushi.parikh6465/viz/Tableau_Challenge_16699292424140/NYCCityBikeStory?publish=yes
 
 ## Overview of Analysis
